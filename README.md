@@ -5,8 +5,13 @@ To RUN THE PROJECT:
 
 DATABASE
 
-Run all the sql queries I have provided in the database folder.
+Step 1: All Sql queries are provided in database folder, execute them in the order I am mentioning below.
 
+Step 2: Run the setup.sql file first.
+
+Step 3: 
+
+Step 4:
 
 
 BACKEND
